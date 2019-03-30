@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FDA092E9-8B86-4719-A688-72F4552C4E23",
-    "height": 176,
+    "height": 168,
     "width": 750,
     "x": 0,
     "y": 0
@@ -33,12 +33,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "1BA28A77-AF69-479D-9280-618B3D74FD2F"
-    },
     {
       "class": "symbolInstance",
       "id": "A27D39AA-0F9D-4FAF-9ECA-DC45C1664FD4"

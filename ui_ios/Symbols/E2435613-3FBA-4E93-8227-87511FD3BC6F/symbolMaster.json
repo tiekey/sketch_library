@@ -9,7 +9,7 @@
     "red": 0.6316964285714286
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3313,
+  "changeIdentifier": 3425,
   "clippingMaskMode": 0,
   "do_objectID": "E2435613-3FBA-4E93-8227-87511FD3BC6F",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "5F2728BA-D292-4130-B58F-8F3AF5D367C9",
     "height": 176,
     "width": 750,
-    "x": 17,
-    "y": 228
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -54,8 +54,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E6FD94A9-9139-4DA3-AE40-CA9E45D3DCBA"
+    },
     {
       "class": "group",
       "id": "3712D8E0-161E-4DAD-9A14-ADCDF13B24C1"
@@ -67,13 +71,9 @@
     {
       "class": "text",
       "id": "E966331F-31C4-464E-8657-01218A70F6D3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "AF93F5F6-AE7A-43FB-82EB-DA8F42422CEC"
     }
   ],
-  "name": "lv3: bars / nav / localNav",
+  "name": "lv3: bars / nav / regular",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -90,11 +90,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "A27D39AA-0F9D-4FAF-9ECA-DC45C1664FD4_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1BA28A77-AF69-479D-9280-618B3D74FD2F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -125,6 +120,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "FCD93BDA-1A47-46C7-950A-4D13B26167CB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E6FD94A9-9139-4DA3-AE40-CA9E45D3DCBA_symbolID"
     }
   ],
   "resizesContent": false,

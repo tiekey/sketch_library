@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "13DAFD23-EBC1-4A5F-B19E-2F51A3C75CF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "065FE7EF-8069-455D-9743-77529E0AB52A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "578B911C-3D7F-4899-A74B-C0A38E16AC4E",
+    "height": 45,
+    "width": 309,
+    "x": 211,
+    "y": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EC6DA9E3-97E9-4F8F-BBA0-8F1B070248A0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8E05FD07-6522-426B-9828-A8F59E685004"
+    },
+    {
+      "class": "text",
+      "id": "A2031D26-FFAD-4F9A-9F25-EA9B7B437F2C"
+    },
+    {
+      "class": "text",
+      "id": "F00A424F-000E-491E-87C6-A8C506B561E7"
+    }
+  ],
+  "name": "HM",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F4C60D65-D3F9-451B-8016-23770AAA1C44",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "1C44F744-D2F1-4B33-A475-415ADF93EB4F",
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "75022264-30FE-48E5-AC0E-7D86A3FCFC0D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

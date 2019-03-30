@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "17BD98F8-ABBA-4CAD-A365-2409DAA98FA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A3AEEBC-2C19-47AC-A103-2CB501D4B3E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "866C4527-2DE2-4366-BED4-C88D8662AC4C",
+    "height": 26,
+    "width": 144,
+    "x": 240,
+    "y": 22
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "49B0C6A1-C53F-42FB-BE93-06FA6B96EA05"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "24BC5FCD-04A5-43B6-ADA6-3EF9010683EC"
+    },
+    {
+      "class": "text",
+      "id": "C7AB6049-0BCF-487D-B63A-6B23BC72768F"
+    }
+  ],
+  "name": "HM",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E5297501-A405-4F77-86B4-7EEF6773C0D6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "619234F8-631E-4DDB-9E79-8281DD691019",
+      "opacity": 0.2000000029802322
+    },
+    "do_objectID": "26F531E4-F133-40D9-8B14-E92AFBBF95E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BDBCFFBF-139F-4146-A7FE-4622B54E9D18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D008B280-0E91-4730-9A32-F27C0D0FF344",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA18C862-67B0-440D-B22A-D3C6A308FD7A",
+    "height": 84,
+    "width": 176,
+    "x": 562,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3F2ED8EE-35F1-461E-A8E6-1A488412C018"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21DC2ADF-EE73-405C-8B71-C94883DA899C"
+    },
+    {
+      "class": "text",
+      "id": "55091072-10B3-4A16-B6AF-C4D78D2E664D"
+    }
+  ],
+  "name": "Enter Key",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F8410F7A-0838-4FB2-BBF2-5D2BC7F8FD33",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "38411E96-8E49-431F-8CCA-6BF9574C9BC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

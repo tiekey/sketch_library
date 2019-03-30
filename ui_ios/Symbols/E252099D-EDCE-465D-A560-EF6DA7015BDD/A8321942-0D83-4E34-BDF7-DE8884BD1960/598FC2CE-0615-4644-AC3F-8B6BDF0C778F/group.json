@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "598FC2CE-0615-4644-AC3F-8B6BDF0C778F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4733C545-58B3-4E28-8DFE-CA79242003B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA94CFCA-0C80-43EB-AD24-A042422AC4EB",
+    "height": 45,
+    "width": 292,
+    "x": 230,
+    "y": 94
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3179FBF7-558D-4971-A142-6A8ADF22110D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "18339143-CCD1-4A80-B37D-4098B83AFD06"
+    },
+    {
+      "class": "text",
+      "id": "9E50B404-AF4D-444B-BA1F-7BD148F2A24F"
+    },
+    {
+      "class": "text",
+      "id": "E7AB666A-C2BE-4D76-8085-2885EB5F4FEB"
+    }
+  ],
+  "name": "HM",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3BEE8750-EFDD-4A61-97B3-21B4B7D318D0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "70B35AA6-51DF-4B6E-9B9C-BBD0C0B6074A",
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "1FC5D01D-FFC3-4457-9813-865F46CAC9C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

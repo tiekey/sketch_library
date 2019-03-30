@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2E82956-0C1B-4521-AFE2-93D65EDE1F1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEB0F2B6-2391-4694-851B-4D73645534EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A68B460-6BCE-47D1-A771-9F7599223938",
+    "height": 16,
+    "width": 142,
+    "x": 238,
+    "y": 122
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BA24CB7D-1666-4B03-8686-58BB89310AAD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "85670E60-3083-414C-B27F-0CF2A0129531"
+    },
+    {
+      "class": "text",
+      "id": "169468A3-B583-48B9-B11E-821B07F58F04"
+    }
+  ],
+  "name": "HM",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "58CC9C9E-24C9-48A7-8B5F-33F078A64CA3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "8F6A4D94-BC9E-4AEA-BD63-EB506FC9F6C4",
+      "opacity": 0.1000000014901161
+    },
+    "do_objectID": "FF1E35C8-3D28-4041-A72F-000BB58EBFF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

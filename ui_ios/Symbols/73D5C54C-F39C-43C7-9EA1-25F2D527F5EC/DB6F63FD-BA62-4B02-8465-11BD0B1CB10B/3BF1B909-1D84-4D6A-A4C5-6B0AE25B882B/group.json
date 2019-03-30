@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BF1B909-1D84-4D6A-A4C5-6B0AE25B882B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2E31574-3AF6-42EC-85E1-93EC75C43D9C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9905984-2950-4E69-9D14-3AE0D0FB9059",
+    "height": 404,
+    "width": 738,
+    "x": 6,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "871715A3-0847-448A-9751-E9DD0D9643F7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "703ECDB9-3F4E-472B-B529-3F309CFDF912"
+    },
+    {
+      "class": "group",
+      "id": "7EE9C398-BCCD-424C-9A63-620B4C9ECE4B"
+    },
+    {
+      "class": "group",
+      "id": "B64F3EA7-3C64-4CF1-BC67-C609EDAB5D50"
+    },
+    {
+      "class": "group",
+      "id": "56F133D6-1F3B-4712-A5B2-08CA951FBBC8"
+    }
+  ],
+  "name": "Keyboards/Light/Uppercase",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "756DC4AA-150D-4039-88E0-649810F76748",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8ABDD1E6-CFD8-47B0-8CDB-B466AC688F0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

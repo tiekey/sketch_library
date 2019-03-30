@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EE9C398-BCCD-424C-9A63-620B4C9ECE4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08B3685F-65A5-4638-8C25-0D412D682828",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "533D0A25-7FC5-4DD7-A051-2AF2EAA30788",
+    "height": 84,
+    "width": 738,
+    "x": 0,
+    "y": 216
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FB130EC7-E06A-4058-9F3B-958D81E3C241"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A4BC5FEF-0BD6-4F4A-8D55-41B081F02614"
+    },
+    {
+      "class": "group",
+      "id": "F2A176FE-3375-46AB-9CD6-4F4BCF3B9790"
+    },
+    {
+      "class": "group",
+      "id": "90C3F9FD-C5D6-4374-A375-BEAB71D23FF1"
+    },
+    {
+      "class": "group",
+      "id": "ADB1CBFB-95EE-4A79-8A4F-C1164CE00A3C"
+    },
+    {
+      "class": "group",
+      "id": "B315C4F0-8905-4DA9-9A2F-51AF5A0564BA"
+    },
+    {
+      "class": "group",
+      "id": "77D737D0-A5C6-4E2A-8447-6EA9DED4E6D1"
+    },
+    {
+      "class": "group",
+      "id": "57E9B243-8ABD-441C-9420-9F6AAD6A0650"
+    },
+    {
+      "class": "group",
+      "id": "737D255A-65F7-42CB-914A-71D6D58A6303"
+    },
+    {
+      "class": "group",
+      "id": "DFC5C3D8-B012-4420-BE94-B7C085D8A56A"
+    }
+  ],
+  "name": "Third Row",
+  "nameIsFixed": false,
+  "originalObjectID": "F8974662-0CAA-4403-A2EA-0098AC3FEAD8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1696D579-EE10-46A6-A2D0-249BC64CE01A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "04DC90BF-A8F8-4110-808E-72F896A1DF35",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
